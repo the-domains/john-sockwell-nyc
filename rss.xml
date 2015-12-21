@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[John.Sockwell.NYC]]></title>
         <description><![CDATA[John.Sockwell.NYC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/john-sockwell-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 06:08:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 06:25:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/john-sockwell-nyc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thegrid.io]]></title>
             <description><![CDATA[<article><h1>thegrid.io</h1><p>I finally received my beta invitation the to The Grid, the artificial intelligence web designer. I hope this new platform encourages me to create more by removing any frustration over design.</p></article>]]></description>
-            <link>undefinedthegridio/index.html</link>
+            <link>https://thegrid.ai/john-sockwell-nyc/thegridio/index.html</link>
             <guid isPermaLink="false">bee2e84e-2dcf-491b-805a-73d71ae93d3b</guid>
-            <pubDate>Mon, 21 Dec 2015 06:08:43 GMT</pubDate>
+            <pubDate>Mon, 21 Dec 2015 06:25:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
