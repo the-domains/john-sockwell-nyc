@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: First post on thegrid.io
-datePublished: '2015-12-21T06:25:02.722Z'
-dateModified: '2015-12-21T06:24:49.753Z'
+datePublished: '2015-12-21T06:34:59.355Z'
+dateModified: '2015-12-21T06:34:46.144Z'
 title: thegrid.io
 author: []
 sourcePath: _posts/2015-12-21-thegridio.md
@@ -31,3 +31,4 @@ From what I understand, The Grid isn't what I would call an AI, but more a set o
 The Grid's sites seem to be hosted on github.com so there must be some GitHub Pages / Jekyll integration. It's a pretty clever approach: GitHub provides the hosting for free, the changing of layouts and templates can live within version control, and Jekyll's use of Markdown files separates the content from the layout -- critical if The Grid truly redesigns the site every time content changes.
 
 I'll post a followup once I've created and migrated some additional content over.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bc27d0e-7990-41bf-8bec-38b4c7e850ed.png)
