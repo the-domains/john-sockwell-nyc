@@ -1,0 +1,28 @@
+name: John.Sockwell.NYC
+favicon: null
+layout_spectrum: 0.14963755011558533
+typography_spectrum: 0.2287659994326532
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.16892450349405408
+  lightness: 0.6438318307045847
+  saturation: 0.740722982911393
+  rhythmicContrast: 0.40461009554564953
+purpose: []
