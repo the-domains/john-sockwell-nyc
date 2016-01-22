@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[John.Sockwell.NYC]]></title>
-        <description><![CDATA[John.Sockwell.NYC]]></description>
+        <title><![CDATA[John Sockwell]]></title>
+        <description><![CDATA[John Sockwell]]></description>
         <link>https://thegrid.ai/john-sockwell-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 06:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 16:57:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-sockwell-nyc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Retaining Talent]]></title>
+            <description><![CDATA[<article><h1>Retaining Talent</h1><p>Finding great talent is the most challenging part of my job. The list of skills I'm looking for is not long, but the people I want aren't interested in agencies. Agencies are grueling and the context switching our digital teams face disrupt the product team's ability to grock a problem. Everyone on my team is seeking the "aha" rush and can get really worn down when things get in the way.</p></article>]]></description>
+            <link>https://thegrid.ai/john-sockwell-nyc/retaining-talent/index.html</link>
+            <guid isPermaLink="false">c13d281b-6703-422f-9982-1963134c8d07</guid>
+            <pubDate>Fri, 22 Jan 2016 16:57:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[thegrid.io]]></title>
-            <description><![CDATA[<article><h1>thegrid.io</h1><p>I finally received my beta invitation the to The Grid, the artificial intelligence web designer. I hope this new platform encourages me to create more by removing any frustration over design.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bc27d0e-7990-41bf-8bec-38b4c7e850ed.png"></article>]]></description>
+            <description><![CDATA[<article><h1>thegrid.io</h1><p>I finally received my beta invitation the to The Grid, the artificial intelligence web designer. I hope this new platform encourages me to create more by removing any frustration over design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53461e14fea91bcc9f526e3cd42886fbf780ea26.png"></article>]]></description>
             <link>https://thegrid.ai/john-sockwell-nyc/thegridio/index.html</link>
             <guid isPermaLink="false">bee2e84e-2dcf-491b-805a-73d71ae93d3b</guid>
             <pubDate>Mon, 21 Dec 2015 06:34:59 GMT</pubDate>
