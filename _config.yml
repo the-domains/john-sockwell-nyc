@@ -1,8 +1,7 @@
+name: John.Sockwell.NYC
+favicon: null
 layout_spectrum: 0.2759857
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.26354
 collections:
   - index:
       path: /
@@ -15,26 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: John Sockwell
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.625
-  brandStrength: 0.5770609
-  lightness: 0.375
   brandColors:
     - '#1c1b20'
     - '#e9e3e3'
     - '#86949f'
     - '#bbbcc1'
     - '#5e7086'
+  brandStrength: 0.5770609
+  lightness: 0.375
+  saturation: 0.625
   rhythmicContrast: 0.5
-typography_spectrum: 0.26354
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: John.Sockwell.NYC
+purpose: []
