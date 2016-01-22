@@ -1,7 +1,7 @@
 name: John.Sockwell.NYC
 favicon: null
-layout_spectrum: 0.2759857
-typography_spectrum: 0.26354
+layout_spectrum: 0.7076
+typography_spectrum: 0.21896
 collections:
   - index:
       path: /
