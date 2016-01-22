@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: What Facebook Knows About Engaging Millennial Employees
-datePublished: '2016-01-22T16:56:38.083Z'
-dateModified: '2016-01-22T16:56:17.797Z'
+datePublished: '2016-01-22T16:57:39.428Z'
+dateModified: '2016-01-22T16:57:35.996Z'
 title: Retaining Talent
 author: []
+sourcePath: _posts/2016-01-22-retaining-talent.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-retaining-talent.md
-published: true
-_type: Blurb
+url: retaining-talent/index.html
+_type: Article
 
 ---
 # Retaining Talent
