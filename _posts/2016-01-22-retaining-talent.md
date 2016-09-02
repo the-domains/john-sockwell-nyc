@@ -1,12 +1,13 @@
 ---
-datePublished: '2016-08-30T20:27:09.221Z'
+datePublished: '2016-08-31T00:51:33.829Z'
 sourcePath: _posts/2016-01-22-retaining-talent.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-30T20:27:08.765Z'
+via: {}
+dateModified: '2016-08-31T00:51:33.356Z'
 title: Retaining Talent
 publisher: {}
 description: >-
@@ -18,7 +19,6 @@ description: >-
   the way.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: retaining-talent/index.html
 _type: Article
