@@ -4,21 +4,21 @@
         <description><![CDATA[John Sockwell]]></description>
         <link>https://thegrid.ai/john-sockwell-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 21:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 21:18:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-sockwell-nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Canvas]]></title>
+            <description><![CDATA[<article><h1>Canvas</h1><p>In realtime, using Markdown, instantly shareable.</p></article>]]></description>
+            <link>https://usecanvas.com/</link>
+            <guid isPermaLink="false">ec265657-482c-4671-8176-681affc2c19f</guid>
+            <pubDate>Tue, 30 Aug 2016 21:18:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Style Tiles]]></title>
             <description><![CDATA[<article><h1>Style Tiles</h1><p>A Style Tile is a design deliverable consisting of fonts, colors and interface elements that communicates the evolution of a visual brand for the web. Learn how to use them here.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/21d5a5c93a922ee51b8e64ca8f6bbfd5/noop.png?input=http%3A%2F%2Fstyletil.es%2Fimg%2Fillustration_define.png"></article>]]></description>
             <link>http://styletil.es</link>
             <guid isPermaLink="false">254e9fdd-873e-4cd2-a7d1-aeb7f135e92a</guid>
             <pubDate>Tue, 30 Aug 2016 21:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canvas]]></title>
-            <description><![CDATA[<article><h1>Canvas</h1><p>https://vimeo.com/154083630</p></article>]]></description>
-            <link>https://usecanvas.com/</link>
-            <guid isPermaLink="false">ec265657-482c-4671-8176-681affc2c19f</guid>
-            <pubDate>Tue, 30 Aug 2016 21:16:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Agencies Can't Create Products - Digiday]]></title>
@@ -36,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Docker]]></title>
-            <description><![CDATA[<article><h1>Docker</h1><p>Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.</p><img src="http://www.docker.com/sites/default/files/social/docker-facebook-share.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Docker</h1><p>Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/758fff3052a0999e156d1ec2a79c4555/noop.png?input=http%3A%2F%2Fwww.docker.com%2Fsites%2Fdefault%2Ffiles%2Fsocial%2Fdocker-facebook-share.png"></article>]]></description>
             <link>https://www.docker.com</link>
             <guid isPermaLink="false">5067470d-95d2-4b28-90e0-4dc8e3befe73</guid>
             <pubDate>Tue, 30 Aug 2016 21:16:09 GMT</pubDate>
