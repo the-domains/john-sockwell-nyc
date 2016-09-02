@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T20:25:36.134Z'
+datePublished: '2016-08-30T20:26:53.627Z'
 sourcePath: _posts/2015-12-21-thegridio.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-30T20:25:35.580Z'
+dateModified: '2016-08-30T20:26:53.309Z'
 title: thegrid.io
 publisher: {}
 description: >-
