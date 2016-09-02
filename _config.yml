@@ -22,7 +22,7 @@ analytics:
 author:
   name: John Sockwell
   url: john.sockwell.nyc
-name: John.Sockwell.NYC
+name: John Sockwell
 cta:
   bucket: null
   version: null
@@ -40,5 +40,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: John Sockwell
+title: 'Observer, Inventor, Explorer'
 purpose: []
