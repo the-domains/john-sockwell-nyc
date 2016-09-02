@@ -1,35 +1,12 @@
-layout_spectrum: 0.43375151976943016
-typography_spectrum: 0.5994388356339186
-color:
-  saturation: 0.07334730844013393
-  brandStrength: 0.7749687184114009
-  lightness: 0.7546237134374678
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  rhythmicContrast: 0.414948504883796
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: John Sockwell
+favicon: null
+layout_spectrum: 0.63146
+typography_spectrum: 0.27918
 author:
   name: John Sockwell
   url: john.sockwell.nyc
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/70318146-3e89-4a33-b18f-fbe5dea1a4e5.png
-name: John Sockwell
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
 collections:
   - index:
       path: /
@@ -44,4 +21,27 @@ collections:
       path: '/:title/'
 title: John Sockwell
 description: 'Observer, Inventor, Explorer'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.7749687184114009
+  lightness: 0.7546237134374678
+  saturation: 0.07334730844013393
+  rhythmicContrast: 1
 purpose: []
