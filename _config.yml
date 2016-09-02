@@ -27,10 +27,6 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: github
-    url: github.com/johnsockwell
-    type: external
 favicon: null
 collections:
   - index:
