@@ -1,5 +1,5 @@
-layout_spectrum: 0.03685173881240189
-typography_spectrum: 0.6526665994897485
+layout_spectrum: 0.41583040566183627
+typography_spectrum: 0.6054365502204746
 color:
   brandColors:
     - '#000000'
@@ -7,10 +7,10 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  brandStrength: 0.545393873937428
-  lightness: 0.37443994311615825
-  saturation: 0.2207564243581146
-  rhythmicContrast: 0.2057170462794602
+  brandStrength: 0.3598485861439258
+  lightness: 0.062091077445074916
+  saturation: 0.5458724631462246
+  rhythmicContrast: 0.015677474904805422
 name: john.sockwell.nyc
 favicon: null
 author:
