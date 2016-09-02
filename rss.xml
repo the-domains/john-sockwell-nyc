@@ -4,8 +4,15 @@
         <description><![CDATA[John Sockwell]]></description>
         <link>https://thegrid.ai/john-sockwell-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 00:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 00:52:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-sockwell-nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spike And Die: Why Products Created By Ad Agencies Fail]]></title>
+            <description><![CDATA[<article><h1>Spike And Die: Why Products Created By Ad Agencies Fail</h1><p>The following is an excerpt from Madison Valley: Building Digital Products. Getting the Most out of Talent. And How Madison Avenue Can Be More like Silicon Valley. The book is about a topic we spend a bit of time discussing on this site: if, and how, marketing companies can adopt the behaviors of tech companies.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/204e3d2eed3c83539c02e0eeb40a2706/noop.jpg?input=https%3A%2F%2Fb.fastcompany.net%2Fmultisite_files%2Ffastcompany%2Fimagecache%2Finline-large%2Finline%2F2014%2F05%2F3030500-inline-for-fastco-1.jpg"></article>]]></description>
+            <link>https://www.fastcocreate.com/3030500/spike-and-die-why-products-created-by-ad-agencies-fail</link>
+            <guid isPermaLink="false">088991c7-1b26-4485-86ac-6b8f34b17cc2</guid>
+            <pubDate>Wed, 31 Aug 2016 00:52:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Retaining Talent]]></title>
             <description><![CDATA[<article><h1>Retaining Talent</h1><p>Finding great talent is the most challenging part of my job. The list of skills I'm looking for is not long, but the people I want aren't interested in agencies. Agencies are grueling and the context switching our digital teams face disrupt the product team's ability to grock a problem. Everyone on my team is seeking the "aha" rush and can get really worn down when things get in the way.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cd32400863dc71a19c6123d60cac96f0/noop.jpg?input=https%3A%2F%2Fhbr.org%2Fresources%2Fimages%2Farticle_assets%2F2015%2F12%2Fdec15-16-167828809.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://blog.marvelapp.com/state-of-the-digital-nation-2016/</link>
             <guid isPermaLink="false">c4c76760-d4f2-4e6c-8e57-45ac064edfdb</guid>
             <pubDate>Tue, 30 Aug 2016 21:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Antibodies Part 1: CRISPR]]></title>
-            <description><![CDATA[<article><h1>Antibodies Part 1: CRISPR</h1><p>Antibodies Part 1: CRISPR (Photo Credit: NIH/NIAID/Flickr) Out drinking with a few biologists, Jad finds out about something called CRISPR. No, it's not a robot or the latest dating app, it's a method for genetic manipulation that is rewriting the way we change DNA.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49e04f58e4226dc4c2d0eca27f7ce98b9f19c029.jpg"></article>]]></description>
-            <link>http://www.radiolab.org/story/antibodies-part-1-crispr/</link>
-            <guid isPermaLink="false">50b125d4-d4bc-4d2c-8589-d130c2b721d0</guid>
-            <pubDate>Tue, 30 Aug 2016 20:29:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
