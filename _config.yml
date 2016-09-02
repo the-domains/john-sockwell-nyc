@@ -43,4 +43,5 @@ collections:
     permalink:
       path: '/:title/'
 title: John Sockwell
+description: 'Observer, Inventor, Explorer'
 purpose: []
