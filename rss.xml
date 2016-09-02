@@ -4,8 +4,15 @@
         <description><![CDATA[John Sockwell]]></description>
         <link>https://thegrid.ai/john-sockwell-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 21:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 21:41:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-sockwell-nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We Have the Technology to Destroy All Zika Mosquitoes]]></title>
+            <description><![CDATA[<article><h1>We Have the Technology to Destroy All Zika Mosquitoes</h1><p>A controversial genetic technology able to wipe out the mosquito carrying the Zika virus will be available within months, scientists say. The technology, called a "gene drive," was demonstrated only last year in yeast cells, fruit flies, and a species of mosquito that transmits malaria.</p><img src="https://d267cvn3rvuq91.cloudfront.net/i/images/zika.genesx2760.jpg?cx=168&cy=76&cw=2415&ch=1358&sw=1200"></article>]]></description>
+            <link>https://www.technologyreview.com/s/600689/we-have-the-technology-to-destroy-all-zika-mosquitoes/</link>
+            <guid isPermaLink="false">b3b52db9-033f-4796-b862-feaf655f3792</guid>
+            <pubDate>Tue, 30 Aug 2016 21:40:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Canvas]]></title>
             <description><![CDATA[<article><h1>Canvas</h1><p>In realtime, using Markdown, instantly shareable.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/john-sockwell-nyc/retaining-talent/index.html</link>
             <guid isPermaLink="false">c13d281b-6703-422f-9982-1963134c8d07</guid>
             <pubDate>Tue, 30 Aug 2016 20:27:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[thegrid.io]]></title>
-            <description><![CDATA[<article><h1>thegrid.io</h1><p>I finally received my beta invitation the to The Grid, the artificial intelligence web designer. I hope this new platform encourages me to create more by removing any frustration over design.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0915df1b-a1c7-4acd-a0dd-c98592ce1b8b.png"></article>]]></description>
-            <link>https://thegrid.ai/john-sockwell-nyc/thegridio/index.html</link>
-            <guid isPermaLink="false">bee2e84e-2dcf-491b-805a-73d71ae93d3b</guid>
-            <pubDate>Tue, 30 Aug 2016 20:26:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
