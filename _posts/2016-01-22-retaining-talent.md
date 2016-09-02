@@ -1,23 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: What Facebook Knows About Engaging Millennial Employees
-datePublished: '2016-01-22T16:59:00.476Z'
-dateModified: '2016-01-22T16:58:58.097Z'
-title: Retaining Talent
-author: []
+datePublished: '2016-08-30T20:27:09.221Z'
 sourcePath: _posts/2016-01-22-retaining-talent.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-30T20:27:08.765Z'
+title: Retaining Talent
+publisher: {}
+description: >-
+  Finding great talent is the most challenging part of my job. The list of
+  skills I'm looking for is not long, but the people I want aren't interested in
+  agencies. Agencies are grueling and the context switching our digital teams
+  face disrupt the product team's ability to grock a problem. Everyone on my
+  team is seeking the "aha" rush and can get really worn down when things get in
+  the way.
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: retaining-talent/index.html
 _type: Article
 
