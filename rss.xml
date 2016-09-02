@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[John Sockwell]]></title>
-        <description><![CDATA[John Sockwell]]></description>
+        <title><![CDATA[Observer, Inventor, Explorer]]></title>
+        <description><![CDATA[Observer, Inventor, Explorer]]></description>
         <link>https://thegrid.ai/john-sockwell-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 16:59:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 20:08:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-sockwell-nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Antibodies Part 1: CRISPR]]></title>
+            <description><![CDATA[<article><h1>Antibodies Part 1: CRISPR</h1><p>This is a great background and explanation of CRISPR. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49e04f58e4226dc4c2d0eca27f7ce98b9f19c029.jpg"></article>]]></description>
+            <link>http://www.radiolab.org/story/antibodies-part-1-crispr/</link>
+            <guid isPermaLink="false">50b125d4-d4bc-4d2c-8589-d130c2b721d0</guid>
+            <pubDate>Tue, 30 Aug 2016 20:08:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Retaining Talent]]></title>
             <description><![CDATA[<article><h1>Retaining Talent</h1><p>Finding great talent is the most challenging part of my job. The list of skills I'm looking for is not long, but the people I want aren't interested in agencies. Agencies are grueling and the context switching our digital teams face disrupt the product team's ability to grock a problem. Everyone on my team is seeking the "aha" rush and can get really worn down when things get in the way.</p></article>]]></description>
