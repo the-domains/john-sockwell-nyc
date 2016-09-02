@@ -22,6 +22,8 @@ analytics:
 author:
   name: John Sockwell
   url: john.sockwell.nyc
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/70318146-3e89-4a33-b18f-fbe5dea1a4e5.png
 name: John Sockwell
 cta:
   bucket: null
