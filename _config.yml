@@ -1,6 +1,6 @@
-name: John Sockwell
+name: john.sockwell.nyc
 favicon: null
-layout_spectrum: 0.61549
+layout_spectrum: 0.61706
 typography_spectrum: 0.26254
 author:
   name: John Sockwell
@@ -40,7 +40,7 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  brandStrength: 0.6875
+  brandStrength: 1
   lightness: 0
   saturation: 0.125
   rhythmicContrast: 1
