@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T20:14:34.123Z'
+datePublished: '2016-08-30T20:29:07.407Z'
 sourcePath: _posts/2016-08-30-antibodies-part-1-crispr.md
 isBasedOnUrl: 'http://www.radiolab.org/story/antibodies-part-1-crispr/'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-30T20:14:33.700Z'
+dateModified: '2016-08-30T20:29:07.152Z'
 title: 'Antibodies Part 1: CRISPR'
 app_links:
   - namespace: twitter
