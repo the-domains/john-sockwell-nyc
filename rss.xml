@@ -4,8 +4,15 @@
         <description><![CDATA[Observer, Inventor, Explorer]]></description>
         <link>https://thegrid.ai/john-sockwell-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 20:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 20:27:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-sockwell-nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Retaining Talent]]></title>
+            <description><![CDATA[<article><h1>Retaining Talent</h1><p>Finding great talent is the most challenging part of my job. The list of skills I'm looking for is not long, but the people I want aren't interested in agencies. Agencies are grueling and the context switching our digital teams face disrupt the product team's ability to grock a problem. Everyone on my team is seeking the "aha" rush and can get really worn down when things get in the way.</p></article>]]></description>
+            <link>https://thegrid.ai/john-sockwell-nyc/retaining-talent/index.html</link>
+            <guid isPermaLink="false">c13d281b-6703-422f-9982-1963134c8d07</guid>
+            <pubDate>Tue, 30 Aug 2016 20:27:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[thegrid.io]]></title>
             <description><![CDATA[<article><h1>thegrid.io</h1><p>I finally received my beta invitation the to The Grid, the artificial intelligence web designer. I hope this new platform encourages me to create more by removing any frustration over design.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0915df1b-a1c7-4acd-a0dd-c98592ce1b8b.png"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://www.radiolab.org/story/antibodies-part-1-crispr/</link>
             <guid isPermaLink="false">50b125d4-d4bc-4d2c-8589-d130c2b721d0</guid>
             <pubDate>Tue, 30 Aug 2016 20:14:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Retaining Talent]]></title>
-            <description><![CDATA[<article><h1>Retaining Talent</h1><p>Finding great talent is the most challenging part of my job. The list of skills I'm looking for is not long, but the people I want aren't interested in agencies. Agencies are grueling and the context switching our digital teams face disrupt the product team's ability to grock a problem. Everyone on my team is seeking the "aha" rush and can get really worn down when things get in the way.</p></article>]]></description>
-            <link>https://thegrid.ai/john-sockwell-nyc/retaining-talent/index.html</link>
-            <guid isPermaLink="false">c13d281b-6703-422f-9982-1963134c8d07</guid>
-            <pubDate>Fri, 22 Jan 2016 16:59:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
