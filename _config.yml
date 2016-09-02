@@ -1,4 +1,3 @@
-layout_spectrum: 0.7076
 typography_spectrum: 0.2660327560734004
 color:
   saturation: 0.20290250424295664
@@ -11,8 +10,24 @@ color:
     - '#CEF09D'
     - '#476C5E'
   rhythmicContrast: 0.39760358282364905
-title: John Sockwell
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7076
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: John Sockwell
+  url: john.sockwell.nyc
+name: John.Sockwell.NYC
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -25,17 +40,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: John.Sockwell.NYC
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: John Sockwell
+purpose: []
