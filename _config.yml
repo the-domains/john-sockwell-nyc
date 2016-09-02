@@ -1,3 +1,16 @@
+layout_spectrum: 0.7076
+typography_spectrum: 0.2660327560734004
+color:
+  saturation: 0.20290250424295664
+  brandStrength: 0.9604933271184564
+  lightness: 0.6564067536965013
+  brandColors:
+    - '#B8ECD7'
+    - '#083643'
+    - '#B1E001'
+    - '#CEF09D'
+    - '#476C5E'
+  rhythmicContrast: 0.39760358282364905
 title: John Sockwell
 purpose: []
 collections:
@@ -12,17 +25,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.625
-  brandStrength: 0.8673835
-  lightness: 0.375
-  brandColors:
-    - '#010202'
-    - '#FCFCF9'
-    - '#BDB49A'
-    - '#4B4B41'
-    - '#537F7F'
-  rhythmicContrast: 0.5
 cta:
   bucket: null
   version: null
@@ -37,5 +39,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.21896
-layout_spectrum: 0.7076
