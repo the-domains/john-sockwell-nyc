@@ -1,7 +1,18 @@
+layout_spectrum: 0.6655060364864767
+typography_spectrum: 0.23871278180740774
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.7010706106666476
+  lightness: 0.32586311432532966
+  saturation: 0.2943530869670212
+  rhythmicContrast: 0.0766535468865186
 name: John Sockwell
 favicon: null
-layout_spectrum: 0.63146
-typography_spectrum: 0.27918
 author:
   name: John Sockwell
   url: john.sockwell.nyc
@@ -33,15 +44,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  brandStrength: 0.7749687184114009
-  lightness: 0.7546237134374678
-  saturation: 0.07334730844013393
-  rhythmicContrast: 1
 purpose: []
