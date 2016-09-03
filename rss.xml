@@ -4,14 +4,21 @@
         <description><![CDATA[John Sockwell]]></description>
         <link>http://john.sockwell.nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 22:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 22:48:01 GMT</lastBuildDate>
         <atom:link href="http://john.sockwell.nyc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Caddy]]></title>
-            <description><![CDATA[<article><h1>Caddy</h1><p>While working on a reverse proxy Docker Compose application using Let’s Encrypt and NGINX, I stumbled on on Caddy. An application that integrates a simple webserver and SSL into a single platform.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c509033-b9e5-4bf6-b892-350f3f55bd91.png"></article>]]></description>
-            <link>https://golang.org/</link>
-            <guid isPermaLink="false">83c29520-c673-43d3-90f1-ba7bcad0c015</guid>
-            <pubDate>Wed, 31 Aug 2016 22:39:30 GMT</pubDate>
+            <title><![CDATA[Retaining Talent]]></title>
+            <description><![CDATA[<article><h1>Retaining Talent</h1><p>Finding great talent is the most challenging part of my job. The list of skills I'm looking for is not long, but the people I want aren't interested in agencies. Agencies are grueling and the context switching our digital teams face disrupt the product team's ability to grock a problem. Everyone on my team is seeking the "aha" rush and can get really worn down when things get in the way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c51a632b0c23c103b093d193136361051e7f0924.jpg"></article>]]></description>
+            <link>https://hbr.org/2015/12/what-facebook-knows-about-engaging-millennial-employees</link>
+            <guid isPermaLink="false">655bef54-974b-49c4-b3fa-a9e6842e22c8</guid>
+            <pubDate>Wed, 31 Aug 2016 22:46:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caddy - The HTTP/2 Web Server with Fully Managed TLS]]></title>
+            <description><![CDATA[<article><h1>Caddy - The HTTP/2 Web Server with Fully Managed TLS</h1><p>Caddy is an alternative web server that is easy to configure and use.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/afe959c3d9799e76bd60b3061c15c85b/noop.png?input=https%3A%2F%2Fcaddyserver.com%2Fresources%2Fimages%2Fsite-example.png"></article>]]></description>
+            <link>https://caddyserver.com</link>
+            <guid isPermaLink="false">f414fad7-ff18-4f8d-8cef-e596a099f173</guid>
+            <pubDate>Wed, 31 Aug 2016 22:45:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Here's the 411 on the EmDrive: the 'physics-defying' thruster even NASA is puzzled over]]></title>
@@ -28,25 +35,11 @@
             <pubDate>Wed, 31 Aug 2016 00:52:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Retaining Talent]]></title>
-            <description><![CDATA[<article><h1>Retaining Talent</h1><p>Finding great talent is the most challenging part of my job. The list of skills I'm looking for is not long, but the people I want aren't interested in agencies. Agencies are grueling and the context switching our digital teams face disrupt the product team's ability to grock a problem. Everyone on my team is seeking the "aha" rush and can get really worn down when things get in the way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c51a632b0c23c103b093d193136361051e7f0924.jpg"></article>]]></description>
-            <link>https://hbr.org/2015/12/what-facebook-knows-about-engaging-millennial-employees</link>
-            <guid isPermaLink="false">655bef54-974b-49c4-b3fa-a9e6842e22c8</guid>
-            <pubDate>Wed, 31 Aug 2016 00:52:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[We Have the Technology to Destroy All Zika Mosquitoes]]></title>
             <description><![CDATA[<article><h1>We Have the Technology to Destroy All Zika Mosquitoes</h1><p>A controversial genetic technology able to wipe out the mosquito carrying the Zika virus will be available within months, scientists say. The technology, called a "gene drive," was demonstrated only last year in yeast cells, fruit flies, and a species of mosquito that transmits malaria.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f4243dc858a20725dd17d0ce6e3d8c67/noop.jpg?input=https%3A%2F%2Fd267cvn3rvuq91.cloudfront.net%2Fi%2Fimages%2Fzika.genesx2760.jpg%3Fcx%3D168%26cy%3D76%26cw%3D2415%26ch%3D1358%26sw%3D1200"></article>]]></description>
             <link>https://www.technologyreview.com/s/600689/we-have-the-technology-to-destroy-all-zika-mosquitoes/</link>
             <guid isPermaLink="false">b3b52db9-033f-4796-b862-feaf655f3792</guid>
             <pubDate>Wed, 31 Aug 2016 00:47:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caddy - The HTTP/2 Web Server with Fully Managed TLS]]></title>
-            <description><![CDATA[<article><h1>Caddy - The HTTP/2 Web Server with Fully Managed TLS</h1><p>Caddy is an alternative web server that is easy to configure and use.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/afe959c3d9799e76bd60b3061c15c85b/noop.png?input=https%3A%2F%2Fcaddyserver.com%2Fresources%2Fimages%2Fsite-example.png"></article>]]></description>
-            <link>https://caddyserver.com</link>
-            <guid isPermaLink="false">f414fad7-ff18-4f8d-8cef-e596a099f173</guid>
-            <pubDate>Wed, 31 Aug 2016 00:08:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canvas]]></title>
