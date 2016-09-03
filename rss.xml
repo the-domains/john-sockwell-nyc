@@ -4,21 +4,21 @@
         <description><![CDATA[John Sockwell]]></description>
         <link>http://john.sockwell.nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 22:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 22:57:35 GMT</lastBuildDate>
         <atom:link href="http://john.sockwell.nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Caddy - The HTTP/2 Web Server with Fully Managed TLS]]></title>
+            <description><![CDATA[<article><h1>Caddy - The HTTP/2 Web Server with Fully Managed TLS</h1><p>I came across Caddy while integrating Let’s Encrypt into a reverse proxy application. Caddy looks like a promising application that does both.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeae0917-faa5-438e-9eb9-99cb33d9dce9.png"></article>]]></description>
+            <link>https://caddyserver.com</link>
+            <guid isPermaLink="false">f414fad7-ff18-4f8d-8cef-e596a099f173</guid>
+            <pubDate>Wed, 31 Aug 2016 22:56:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Go Programming Language]]></title>
             <description><![CDATA[<article><h1>The Go Programming Language</h1><p>Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44bb80f1-a56e-4709-a3af-d7d01c432a0d.png"></article>]]></description>
             <link>https://golang.org/</link>
             <guid isPermaLink="false">ee9e084b-a24f-43df-8a53-5ba544345ae3</guid>
             <pubDate>Wed, 31 Aug 2016 22:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caddy - The HTTP/2 Web Server with Fully Managed TLS]]></title>
-            <description><![CDATA[<article><h1>Caddy - The HTTP/2 Web Server with Fully Managed TLS</h1><p>Caddy is an alternative web server that is easy to configure and use.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeae0917-faa5-438e-9eb9-99cb33d9dce9.png"></article>]]></description>
-            <link>https://caddyserver.com</link>
-            <guid isPermaLink="false">f414fad7-ff18-4f8d-8cef-e596a099f173</guid>
-            <pubDate>Wed, 31 Aug 2016 22:51:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Retaining Talent]]></title>
