@@ -4,15 +4,8 @@
         <description><![CDATA[John Sockwell]]></description>
         <link>http://john.sockwell.nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 22:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 22:47:54 GMT</lastBuildDate>
         <atom:link href="http://john.sockwell.nyc/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Caddy - The HTTP/2 Web Server with Fully Managed TLS]]></title>
-            <description><![CDATA[<article><h1>Caddy - The HTTP/2 Web Server with Fully Managed TLS</h1><p>Caddy is an alternative web server that is easy to configure and use.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/afe959c3d9799e76bd60b3061c15c85b/noop.png?input=https%3A%2F%2Fcaddyserver.com%2Fresources%2Fimages%2Fsite-example.png"></article>]]></description>
-            <link>https://caddyserver.com</link>
-            <guid isPermaLink="false">f414fad7-ff18-4f8d-8cef-e596a099f173</guid>
-            <pubDate>Wed, 31 Aug 2016 22:45:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Here's the 411 on the EmDrive: the 'physics-defying' thruster even NASA is puzzled over]]></title>
             <description><![CDATA[<article><h1>Here's the 411 on the EmDrive: the 'physics-defying' thruster even NASA is puzzled over</h1><p>Even if you don't keep up with developments in space propulsion technology, you've still probably heard about the EmDrive. You've probably seen headlines declaring it the key to interstellar travel, and claims that it will drastically reduce travel time across our solar system, making our dreams of people walking on other planets even more of a reality.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/55979352519ddcdc0f7f1226d64aa226/noop.jpg?input=http%3A%2F%2Ficdn3.digitaltrends.com%2Fimage%2Fem-drive-1200x630-c.jpg"></article>]]></description>
@@ -40,6 +33,13 @@
             <link>https://www.technologyreview.com/s/600689/we-have-the-technology-to-destroy-all-zika-mosquitoes/</link>
             <guid isPermaLink="false">b3b52db9-033f-4796-b862-feaf655f3792</guid>
             <pubDate>Wed, 31 Aug 2016 00:47:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caddy - The HTTP/2 Web Server with Fully Managed TLS]]></title>
+            <description><![CDATA[<article><h1>Caddy - The HTTP/2 Web Server with Fully Managed TLS</h1><p>Caddy is an alternative web server that is easy to configure and use.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/afe959c3d9799e76bd60b3061c15c85b/noop.png?input=https%3A%2F%2Fcaddyserver.com%2Fresources%2Fimages%2Fsite-example.png"></article>]]></description>
+            <link>https://caddyserver.com</link>
+            <guid isPermaLink="false">f414fad7-ff18-4f8d-8cef-e596a099f173</guid>
+            <pubDate>Wed, 31 Aug 2016 00:08:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canvas]]></title>
