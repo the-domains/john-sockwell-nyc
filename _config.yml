@@ -1,4 +1,3 @@
-layout_spectrum: 0.41583040566183627
 typography_spectrum: 0.6054365502204746
 color:
   brandColors:
@@ -11,13 +10,26 @@ color:
   lightness: 0.062091077445074916
   saturation: 0.5458724631462246
   rhythmicContrast: 0.015677474904805422
-name: john.sockwell.nyc
-favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.41583040566183627
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 author:
   name: John Sockwell
   url: john.sockwell.nyc
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/70318146-3e89-4a33-b18f-fbe5dea1a4e5.png
+name: john.sockwell.nyc
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -32,16 +44,4 @@ collections:
       path: '/:title/'
 title: John Sockwell
 description: 'Observer, Inventor, Explorer'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 purpose: []
