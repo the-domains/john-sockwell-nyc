@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T00:08:09.966Z'
+datePublished: '2016-08-31T22:45:50.376Z'
 sourcePath: _posts/2016-08-30-caddy-the-http2-web-server-with-fully-managed-tls.md
 isBasedOnUrl: 'https://caddyserver.com'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T00:08:09.655Z'
+dateModified: '2016-08-31T22:45:49.954Z'
 title: Caddy - The HTTP/2 Web Server with Fully Managed TLS
 app_links: []
 publisher:
