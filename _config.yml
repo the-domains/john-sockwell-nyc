@@ -11,7 +11,8 @@ color:
   saturation: 0.5458724631462246
   rhythmicContrast: 0.015677474904805422
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/96bc19b9-cd66-4d4e-8c56-f955852c3390.png
   type: null
   appId: null
 layout_spectrum: 0.41583040566183627
