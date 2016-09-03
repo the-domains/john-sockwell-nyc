@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T00:47:33.154Z'
+datePublished: '2016-08-31T23:16:54.768Z'
 sourcePath: _posts/2016-08-30-we-have-the-technology-to-destroy-all-zika-mosquitoes.md
 inFeed: true
 isBasedOnUrl: >-
@@ -23,7 +23,7 @@ author:
     url: null
     avatar: {}
 via: {}
-dateModified: '2016-08-31T00:47:32.816Z'
+dateModified: '2016-08-31T23:16:54.298Z'
 title: We Have the Technology to Destroy All Zika Mosquitoes
 app_links: []
 publisher:
@@ -32,10 +32,9 @@ publisher:
   url: 'https://www.technologyreview.com'
   favicon: 'https://www.technologyreview.com/favicon.ico'
 description: >-
-  A controversial genetic technology able to wipe out the mosquito carrying the
-  Zika virus will be available within months, scientists say. The technology,
-  called a "gene drive," was demonstrated only last year in yeast cells, fruit
-  flies, and a species of mosquito that transmits malaria.
+  I consider myself an environmentalist. Coming from the Northwest, I’m fond of
+  fresh air, clean water, and bio-diversity.  But when it comes to mosquitos, I
+  subscribe to a scorched earth policy.
 inLanguage: en
 inNav: false
 starred: false
@@ -44,3 +43,5 @@ _type: MediaObject
 
 ---
 <article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f4243dc858a20725dd17d0ce6e3d8c67/noop.jpg?input=https%3A%2F%2Fd267cvn3rvuq91.cloudfront.net%2Fi%2Fimages%2Fzika.genesx2760.jpg%3Fcx%3D168%26cy%3D76%26cw%3D2415%26ch%3D1358%26sw%3D1200" /><h1>We Have the Technology to Destroy All Zika Mosquitoes</h1><p>A controversial genetic technology able to wipe out the mosquito carrying the Zika virus will be available within months, scientists say. The technology, called a "gene drive," was demonstrated only last year in yeast cells, fruit flies, and a species of mosquito that transmits malaria.</p></article>
+
+I consider myself an environmentalist. Coming from the Northwest, I'm fond of fresh air, clean water, and bio-diversity. But when it comes to mosquitos, I subscribe to a scorched earth policy.
