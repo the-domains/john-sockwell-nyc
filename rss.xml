@@ -4,8 +4,15 @@
         <description><![CDATA[John Sockwell]]></description>
         <link>http://john.sockwell.nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 22:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 23:02:39 GMT</lastBuildDate>
         <atom:link href="http://john.sockwell.nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[State of the Digital Nation 2016]]></title>
+            <description><![CDATA[<article><h1>State of the Digital Nation 2016</h1><p>In 2013, we explored the state and future of the digital consultancy industry, posing the question "How, When and Where Will The First Truly Great Digital Design Studio Emerge?". Three years later in 2016, enough time has passed to discern patterns from trends.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4dd9ed1312b639db40b7ad2f46f89910/croprotate.jpg?cropheight=627&cropwidth=1265&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F7583a1c32c12f8c7bd3116694ba17061b296550d.jpg&x=0&y=0"></article>]]></description>
+            <link>https://blog.marvelapp.com/state-of-the-digital-nation-2016/</link>
+            <guid isPermaLink="false">c4c76760-d4f2-4e6c-8e57-45ac064edfdb</guid>
+            <pubDate>Wed, 31 Aug 2016 23:02:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Caddy - The HTTP/2 Web Server with Fully Managed TLS]]></title>
             <description><![CDATA[<article><h1>Caddy - The HTTP/2 Web Server with Fully Managed TLS</h1><p>I came across Caddy while integrating Let’s Encrypt into a reverse proxy application. Caddy looks like a promising application that does both.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeae0917-faa5-438e-9eb9-99cb33d9dce9.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://digiday.com/agencies/why-agencies-cant-create-products/</link>
             <guid isPermaLink="false">9fb172a3-f395-4943-8e42-3d4193fd1aa7</guid>
             <pubDate>Tue, 30 Aug 2016 21:16:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Docker]]></title>
-            <description><![CDATA[<article><h1>Docker</h1><p>Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/758fff3052a0999e156d1ec2a79c4555/noop.png?input=http%3A%2F%2Fwww.docker.com%2Fsites%2Fdefault%2Ffiles%2Fsocial%2Fdocker-facebook-share.png"></article>]]></description>
-            <link>https://www.docker.com</link>
-            <guid isPermaLink="false">5067470d-95d2-4b28-90e0-4dc8e3befe73</guid>
-            <pubDate>Tue, 30 Aug 2016 21:16:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
