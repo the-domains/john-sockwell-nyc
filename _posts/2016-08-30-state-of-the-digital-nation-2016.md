@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T23:02:29.369Z'
+datePublished: '2016-08-31T23:09:14.046Z'
 sourcePath: _posts/2016-08-30-state-of-the-digital-nation-2016.md
 isBasedOnUrl: 'https://blog.marvelapp.com/state-of-the-digital-nation-2016/'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T23:02:28.923Z'
+dateModified: '2016-08-31T23:09:13.363Z'
 title: State of the Digital Nation 2016
 app_links: []
 publisher:
