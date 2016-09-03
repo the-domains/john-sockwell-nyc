@@ -4,8 +4,15 @@
         <description><![CDATA[John Sockwell]]></description>
         <link>http://john.sockwell.nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 23:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 23:07:50 GMT</lastBuildDate>
         <atom:link href="http://john.sockwell.nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Go Programming Language]]></title>
+            <description><![CDATA[<article><h1>The Go Programming Language</h1><p>Go is becoming the language I point people to looking to learn programming.  Python is great for its easy entry, but the tutorials and Go’s structure touches on CS topics that scripting languages avoid.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44bb80f1-a56e-4709-a3af-d7d01c432a0d.png"></article>]]></description>
+            <link>https://golang.org/</link>
+            <guid isPermaLink="false">ee9e084b-a24f-43df-8a53-5ba544345ae3</guid>
+            <pubDate>Wed, 31 Aug 2016 23:07:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[State of the Digital Nation 2016]]></title>
             <description><![CDATA[<article><h1>State of the Digital Nation 2016</h1><p>In 2013, we explored the state and future of the digital consultancy industry, posing the question "How, When and Where Will The First Truly Great Digital Design Studio Emerge?". Three years later in 2016, enough time has passed to discern patterns from trends.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4dd9ed1312b639db40b7ad2f46f89910/croprotate.jpg?cropheight=627&cropwidth=1265&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F7583a1c32c12f8c7bd3116694ba17061b296550d.jpg&x=0&y=0"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://caddyserver.com</link>
             <guid isPermaLink="false">f414fad7-ff18-4f8d-8cef-e596a099f173</guid>
             <pubDate>Wed, 31 Aug 2016 22:56:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Go Programming Language]]></title>
-            <description><![CDATA[<article><h1>The Go Programming Language</h1><p>Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44bb80f1-a56e-4709-a3af-d7d01c432a0d.png"></article>]]></description>
-            <link>https://golang.org/</link>
-            <guid isPermaLink="false">ee9e084b-a24f-43df-8a53-5ba544345ae3</guid>
-            <pubDate>Wed, 31 Aug 2016 22:53:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Retaining Talent]]></title>
