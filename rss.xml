@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[John Sockwell]]></title>
         <description><![CDATA[John Sockwell]]></description>
-        <link>https://thegrid.ai/john-sockwell-nyc/</link>
+        <link>http://john.sockwell.nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 14:48:00 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/john-sockwell-nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 22:38:05 GMT</lastBuildDate>
+        <atom:link href="http://john.sockwell.nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Caddy]]></title>
+            <description><![CDATA[<article><h1>Caddy</h1><p>While working on a reverse proxy Docker Compose application using Let’s Encrypt and NGINX, I stumbled on on Caddy. An application that integrates a simple webserver and SSL into a single platform.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c509033-b9e5-4bf6-b892-350f3f55bd91.png"></article>]]></description>
+            <link>https://golang.org/</link>
+            <guid isPermaLink="false">83c29520-c673-43d3-90f1-ba7bcad0c015</guid>
+            <pubDate>Wed, 31 Aug 2016 22:20:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Here's the 411 on the EmDrive: the 'physics-defying' thruster even NASA is puzzled over]]></title>
             <description><![CDATA[<article><h1>Here's the 411 on the EmDrive: the 'physics-defying' thruster even NASA is puzzled over</h1><p>Even if you don't keep up with developments in space propulsion technology, you've still probably heard about the EmDrive. You've probably seen headlines declaring it the key to interstellar travel, and claims that it will drastically reduce travel time across our solar system, making our dreams of people walking on other planets even more of a reality.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/55979352519ddcdc0f7f1226d64aa226/noop.jpg?input=http%3A%2F%2Ficdn3.digitaltrends.com%2Fimage%2Fem-drive-1200x630-c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.docker.com</link>
             <guid isPermaLink="false">5067470d-95d2-4b28-90e0-4dc8e3befe73</guid>
             <pubDate>Tue, 30 Aug 2016 21:16:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Science of Speaking is the Art of Being Heard]]></title>
-            <description><![CDATA[<article><h1>The Science of Speaking is the Art of Being Heard</h1><p>For thousands of years, people have constructed cairns, a human-made stack of stones, as landmarks, monuments or tributes. These days, hikers will add a rock to a cairn as they reach a summit of a mountain or a turning point on a trail.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6245a7d06e3ad29097319c6a61b0aaa4/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmarquee-test-akiaisur2rgicbmpehea%2FsLuX1HWJShSFZVZwrnE5_Khalid%2520Halim.jpg"></article>]]></description>
-            <link>http://firstround.com/review/the-science-of-speaking-is-the-art-of-being-heard/</link>
-            <guid isPermaLink="false">4598ced0-ea88-4bd2-bf42-9f5e05fb23c1</guid>
-            <pubDate>Tue, 30 Aug 2016 21:15:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
