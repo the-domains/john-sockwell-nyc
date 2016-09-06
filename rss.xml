@@ -2,79 +2,58 @@
     <channel>
         <title><![CDATA[John Sockwell]]></title>
         <description><![CDATA[John Sockwell]]></description>
-        <link>http://john.sockwell.nyc/</link>
+        <link>https://thegrid.ai/john-sockwell-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 23:38:28 GMT</lastBuildDate>
-        <atom:link href="http://john.sockwell.nyc/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Spike And Die: Why Products Created By Ad Agencies Fail]]></title>
-            <description><![CDATA[<article><h1>Spike And Die: Why Products Created By Ad Agencies Fail</h1><p>This is required reading for everyone on my team.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/204e3d2eed3c83539c02e0eeb40a2706/noop.jpg?input=https%3A%2F%2Fb.fastcompany.net%2Fmultisite_files%2Ffastcompany%2Fimagecache%2Finline-large%2Finline%2F2014%2F05%2F3030500-inline-for-fastco-1.jpg"></article>]]></description>
-            <link>https://www.fastcocreate.com/3030500/spike-and-die-why-products-created-by-ad-agencies-fail</link>
-            <guid isPermaLink="false">088991c7-1b26-4485-86ac-6b8f34b17cc2</guid>
-            <pubDate>Wed, 31 Aug 2016 23:38:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Have the Technology to Destroy All Zika Mosquitoes]]></title>
-            <description><![CDATA[<article><h1>We Have the Technology to Destroy All Zika Mosquitoes</h1><p>I consider myself an environmentalist. Coming from the Northwest, I’m fond of fresh air, clean water, and bio-diversity.  But when it comes to mosquitos, I subscribe to a scorched earth policy.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f4243dc858a20725dd17d0ce6e3d8c67/noop.jpg?input=https%3A%2F%2Fd267cvn3rvuq91.cloudfront.net%2Fi%2Fimages%2Fzika.genesx2760.jpg%3Fcx%3D168%26cy%3D76%26cw%3D2415%26ch%3D1358%26sw%3D1200"></article>]]></description>
-            <link>https://www.technologyreview.com/s/600689/we-have-the-technology-to-destroy-all-zika-mosquitoes/</link>
-            <guid isPermaLink="false">b3b52db9-033f-4796-b862-feaf655f3792</guid>
-            <pubDate>Wed, 31 Aug 2016 23:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[State of the Digital Nation 2016]]></title>
-            <description><![CDATA[<article><h1>State of the Digital Nation 2016</h1><p>In 2013, we explored the state and future of the digital consultancy industry, posing the question "How, When and Where Will The First Truly Great Digital Design Studio Emerge?". Three years later in 2016, enough time has passed to discern patterns from trends.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6af292e2-d7c2-4419-b1b9-69ebe7fa5431.png"></article>]]></description>
-            <link>https://blog.marvelapp.com/state-of-the-digital-nation-2016/</link>
-            <guid isPermaLink="false">c4c76760-d4f2-4e6c-8e57-45ac064edfdb</guid>
-            <pubDate>Wed, 31 Aug 2016 23:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Go Programming Language]]></title>
-            <description><![CDATA[<article><h1>The Go Programming Language</h1><p>Go is becoming the language I point people to looking to learn programming.  Python is great for its easy entry, but the tutorials and Go’s structure touches on CS topics that scripting languages avoid.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44bb80f1-a56e-4709-a3af-d7d01c432a0d.png"></article>]]></description>
-            <link>https://golang.org/</link>
-            <guid isPermaLink="false">ee9e084b-a24f-43df-8a53-5ba544345ae3</guid>
-            <pubDate>Wed, 31 Aug 2016 23:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caddy - The HTTP/2 Web Server with Fully Managed TLS]]></title>
-            <description><![CDATA[<article><h1>Caddy - The HTTP/2 Web Server with Fully Managed TLS</h1><p>I came across Caddy while integrating Let’s Encrypt into a reverse proxy application. Caddy looks like a promising application that does both.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeae0917-faa5-438e-9eb9-99cb33d9dce9.png"></article>]]></description>
-            <link>https://caddyserver.com</link>
-            <guid isPermaLink="false">f414fad7-ff18-4f8d-8cef-e596a099f173</guid>
-            <pubDate>Wed, 31 Aug 2016 22:56:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Retaining Talent]]></title>
-            <description><![CDATA[<article><h1>Retaining Talent</h1><p>Finding great talent is the most challenging part of my job. The list of skills I'm looking for is not long, but the people I want aren't interested in agencies. Agencies are grueling and the context switching our digital teams face disrupt the product team's ability to grock a problem. Everyone on my team is seeking the "aha" rush and can get really worn down when things get in the way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c51a632b0c23c103b093d193136361051e7f0924.jpg"></article>]]></description>
-            <link>https://hbr.org/2015/12/what-facebook-knows-about-engaging-millennial-employees</link>
-            <guid isPermaLink="false">655bef54-974b-49c4-b3fa-a9e6842e22c8</guid>
-            <pubDate>Wed, 31 Aug 2016 22:46:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here's the 411 on the EmDrive: the 'physics-defying' thruster even NASA is puzzled over]]></title>
-            <description><![CDATA[<article><h1>Here's the 411 on the EmDrive: the 'physics-defying' thruster even NASA is puzzled over</h1><p>Even if you don't keep up with developments in space propulsion technology, you've still probably heard about the EmDrive. You've probably seen headlines declaring it the key to interstellar travel, and claims that it will drastically reduce travel time across our solar system, making our dreams of people walking on other planets even more of a reality.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/55979352519ddcdc0f7f1226d64aa226/noop.jpg?input=http%3A%2F%2Ficdn3.digitaltrends.com%2Fimage%2Fem-drive-1200x630-c.jpg"></article>]]></description>
-            <link>http://www.digitaltrends.com/cool-tech/emdrive-news-rumors/</link>
-            <guid isPermaLink="false">08594a17-c5e0-45c1-a362-0c1d8eb9ae65</guid>
-            <pubDate>Wed, 31 Aug 2016 14:47:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canvas]]></title>
-            <description><![CDATA[<article><h1>Canvas</h1><p>In realtime, using Markdown, instantly shareable.</p></article>]]></description>
-            <link>https://usecanvas.com/</link>
-            <guid isPermaLink="false">ec265657-482c-4671-8176-681affc2c19f</guid>
-            <pubDate>Tue, 30 Aug 2016 21:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Style Tiles]]></title>
-            <description><![CDATA[<article><h1>Style Tiles</h1><p>A Style Tile is a design deliverable consisting of fonts, colors and interface elements that communicates the evolution of a visual brand for the web. Learn how to use them here.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/21d5a5c93a922ee51b8e64ca8f6bbfd5/noop.png?input=http%3A%2F%2Fstyletil.es%2Fimg%2Fillustration_define.png"></article>]]></description>
-            <link>http://styletil.es</link>
-            <guid isPermaLink="false">254e9fdd-873e-4cd2-a7d1-aeb7f135e92a</guid>
-            <pubDate>Tue, 30 Aug 2016 21:16:35 GMT</pubDate>
-        </item>
+        <lastBuildDate>Tue, 30 Aug 2016 21:16:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/john-sockwell-nyc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why Agencies Can't Create Products - Digiday]]></title>
             <description><![CDATA[<article><h1>Why Agencies Can't Create Products - Digiday</h1><p>No self-respecting "future of the agency" panel or article is complete without a detour to product world. This is a mythical place where agencies have thrown off the bounds of time sheets, unreasonable clients, service company margins and narrow briefs to allow their creativity to take over and lead to new product innovations that will bring forth untold riches.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/04d5272213f507b239979c6fc8b03a01/noop.jpg?input=http%3A%2F%2Fi2.wp.com%2Fdigiday.com%2Fwp-content%2Fuploads%2F2012%2F07%2Ffactory.jpg%3Fresize%3D640%252C360"></article>]]></description>
             <link>http://digiday.com/agencies/why-agencies-cant-create-products/</link>
             <guid isPermaLink="false">9fb172a3-f395-4943-8e42-3d4193fd1aa7</guid>
             <pubDate>Tue, 30 Aug 2016 21:16:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caddy - The HTTP/2 Web Server with Fully Managed TLS]]></title>
+            <description><![CDATA[<article><h1>Caddy - The HTTP/2 Web Server with Fully Managed TLS</h1><p>Caddy is an alternative web server that is easy to configure and use.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/afe959c3d9799e76bd60b3061c15c85b/noop.png?input=https%3A%2F%2Fcaddyserver.com%2Fresources%2Fimages%2Fsite-example.png"></article>]]></description>
+            <link>https://caddyserver.com</link>
+            <guid isPermaLink="false">f414fad7-ff18-4f8d-8cef-e596a099f173</guid>
+            <pubDate>Tue, 30 Aug 2016 21:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Science of Speaking is the Art of Being Heard]]></title>
+            <description><![CDATA[<article><h1>The Science of Speaking is the Art of Being Heard</h1><p>For thousands of years, people have constructed cairns, a human-made stack of stones, as landmarks, monuments or tributes. These days, hikers will add a rock to a cairn as they reach a summit of a mountain or a turning point on a trail.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6245a7d06e3ad29097319c6a61b0aaa4/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmarquee-test-akiaisur2rgicbmpehea%2FsLuX1HWJShSFZVZwrnE5_Khalid%2520Halim.jpg"></article>]]></description>
+            <link>http://firstround.com/review/the-science-of-speaking-is-the-art-of-being-heard/</link>
+            <guid isPermaLink="false">4598ced0-ea88-4bd2-bf42-9f5e05fb23c1</guid>
+            <pubDate>Tue, 30 Aug 2016 21:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State of the Digital Nation 2016]]></title>
+            <description><![CDATA[<article><h1>State of the Digital Nation 2016</h1><p>In 2013, we explored the state and future of the digital consultancy industry, posing the question "How, When and Where Will The First Truly Great Digital Design Studio Emerge?". Three years later in 2016, enough time has passed to discern patterns from trends.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4dd9ed1312b639db40b7ad2f46f89910/croprotate.jpg?cropheight=627&cropwidth=1265&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F7583a1c32c12f8c7bd3116694ba17061b296550d.jpg&x=0&y=0"></article>]]></description>
+            <link>https://blog.marvelapp.com/state-of-the-digital-nation-2016/</link>
+            <guid isPermaLink="false">c4c76760-d4f2-4e6c-8e57-45ac064edfdb</guid>
+            <pubDate>Tue, 30 Aug 2016 21:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antibodies Part 1: CRISPR]]></title>
+            <description><![CDATA[<article><h1>Antibodies Part 1: CRISPR</h1><p>Antibodies Part 1: CRISPR (Photo Credit: NIH/NIAID/Flickr) Out drinking with a few biologists, Jad finds out about something called CRISPR. No, it's not a robot or the latest dating app, it's a method for genetic manipulation that is rewriting the way we change DNA.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49e04f58e4226dc4c2d0eca27f7ce98b9f19c029.jpg"></article>]]></description>
+            <link>http://www.radiolab.org/story/antibodies-part-1-crispr/</link>
+            <guid isPermaLink="false">50b125d4-d4bc-4d2c-8589-d130c2b721d0</guid>
+            <pubDate>Tue, 30 Aug 2016 20:29:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Retaining Talent]]></title>
+            <description><![CDATA[<article><h1>Retaining Talent</h1><p>Finding great talent is the most challenging part of my job. The list of skills I'm looking for is not long, but the people I want aren't interested in agencies. Agencies are grueling and the context switching our digital teams face disrupt the product team's ability to grock a problem. Everyone on my team is seeking the "aha" rush and can get really worn down when things get in the way.</p></article>]]></description>
+            <link>https://thegrid.ai/john-sockwell-nyc/retaining-talent/index.html</link>
+            <guid isPermaLink="false">c13d281b-6703-422f-9982-1963134c8d07</guid>
+            <pubDate>Tue, 30 Aug 2016 20:27:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[thegrid.io]]></title>
+            <description><![CDATA[<article><h1>thegrid.io</h1><p>I finally received my beta invitation the to The Grid, the artificial intelligence web designer. I hope this new platform encourages me to create more by removing any frustration over design.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0915df1b-a1c7-4acd-a0dd-c98592ce1b8b.png"></article>]]></description>
+            <link>https://thegrid.ai/john-sockwell-nyc/thegridio/index.html</link>
+            <guid isPermaLink="false">bee2e84e-2dcf-491b-805a-73d71ae93d3b</guid>
+            <pubDate>Tue, 30 Aug 2016 20:26:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
